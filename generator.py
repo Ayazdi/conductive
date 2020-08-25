@@ -95,13 +95,13 @@ def generate_thickness(latent_points, process_vector, g_model):
 if __name__ == '__main__':
     latent_points = generate_latent_points()
     print("Please enter flow rate value:\n")
-    flow = 0.916 #input()
+    flow = 0.916000	 #input()
     print("Please enter spacing value:\n")
-    space = 0.355 #input()
+    space = 0.344000 #input()
     print("Please enter deposition time value:\n")
-    dept = 68.5 #input()
+    dept = 69.289000 #input()
     print("Please enter tool number from 1, 2, 3 and 4:\n")
-    tool = 2 #input()
+    tool = 1 #input()
 
     process_vector = create_process_vector(flow, space, dept, tool)
     thickness = generate_thickness(latent_points, process_vector, g_model)
