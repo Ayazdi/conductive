@@ -25,7 +25,8 @@ Coordinates of the sites are given in a separate file. Values are in micrometers
 - (Bonus) Build a physics-based model (preferably using simulations) for this process that would include temperature. If you need information on other process parameters, we'd be happy to provide them if available. Adapt it to fit the data. Combine it with the ML model to incorporate the influence of temperature.
 ## GAN model solution:
 ![](Slide1.jpg)
-
+## Model evalution:
+![](Slide2.jpg)
 ### Please review the following notebooks and files for the evaluation:
 
  - Data analysis, 3D interpolation and Augmented data generation: **visualization.ipyn
