@@ -101,7 +101,7 @@ if __name__ == '__main__':
     print("Please enter deposition time value:\n")
     dept = 68.5 #input()
     print("Please enter tool number from 1, 2, 3 and 4:\n")
-    tool = 4 #input()
+    tool = 2 #input()
 
     process_vector = create_process_vector(flow, space, dept, tool)
     thickness = generate_thickness(latent_points, process_vector, g_model)
