@@ -29,6 +29,6 @@ Coordinates of the sites are given in a separate file. Values are in micrometers
 ![](Slide2.jpg)
 ### Please review the following notebooks and files for the evaluation:
 
- - Data analysis, 3D interpolation and Augmented data generation: **visualization.ipyn
- - Conditional Deep Convolutional GAN model training: **GANS-7x7.ipyn
- - Generator Python file to generate a new 3D interpolation of the profile thickness: run **generator.py  
+ - Data analysis, 3D interpolation and Augmented data generation: **visualization.ipyn**
+ - Conditional Deep Convolutional GAN model training: **GANS-7x7.ipyn**
+ - Generator Python file to generate a new 3D interpolation of the profile thickness: run **generator.py**  
